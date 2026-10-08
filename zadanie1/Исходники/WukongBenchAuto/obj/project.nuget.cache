@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zzZ0feHzJ0V/6B5LKfNsD0h1Atkc9xtk1Ap1ej8BSdSn5kkQVJPvmr9dP3hGcAyeGRMbF6BBsFs/fX7eqQh+AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sydkr\\OneDrive\\Рабочий стол\\zadanie1\\Исходники\\WukongBenchAuto\\WukongBenchAuto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sydkr\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\sydkr\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
