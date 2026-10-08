@@ -8,7 +8,7 @@
 - .NET SDK 7+
 
 ## Запуск
-Двойной клик по `запуск.cmd` или:
+`запуск.cmd` или:
 
 ```bash
 dotnet run -c Release --project Исходники/WukongBenchAuto
