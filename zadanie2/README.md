@@ -1,6 +1,6 @@
 # Weather by cities (wttr.in)
 
-Скрипт на Python (только стандартная библиотека: `json`, `urllib`, `dataclasses`, `concurrent.futures`).
+Скрипт на Python ( `json`, `urllib`, `dataclasses`, `concurrent.futures`).
 
 1. Загружает список городов из облачного файла <https://gistpad.com/raw/vk-task-14> в память
    (убирает пустые строки, пробелы, BOM и дубликаты без учёта регистра).
@@ -36,4 +36,4 @@ python weather.py cities.txt   # или из локального файла
   Vietnam — 1 city, avg: +25 °C, min: +25 °C, max: +25 °C
 ```
 
-Город, который не удалось получить, выводится в stderr с пометкой `[!]` и не попадает в статистику (код выхода 2).
+Город,который не удалось получить, выводится в stderr с пометкой `[!]` и не попадает в статистику (код выхода 2).
